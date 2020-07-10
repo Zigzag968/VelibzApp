@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Carte
     description                           : Retrouvez les stations et la disponibilité en vélos mécaniques, électriques ou parkings sur la carte.
-    fontawesome_icon_name                 : bike
+    fontawesome_icon_name                 : biking
     
   - title                                 : Recherche
     description                           : Recherchez une adresse et trouvez les stations à proximité.
