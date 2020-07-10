@@ -6,7 +6,7 @@ include_in_header: false
 
 # Politique de confidentialité (standard RGPD)
 **Last updated**<br>
-August 1 2019
+10 juillet 2020
 
 ## Définitions :
 - L'Éditeur : La personne, physique ou morale, qui édite les services de communication au public en ligne.
