@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Alexandre Guibert                               
 your_link                                 : https://www.linkedin.com/in/alexandre-guibert-896a2b17/                     
 your_city                                 : Paris                                
-email_address                             : 
+email_address                             : hello@velibz.app
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -58,7 +58,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 1
+cover_overlay_transparency                : 0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
