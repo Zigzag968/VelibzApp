@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : search
 
   - title                                 : Itinéraire
-    description                           : Ouvrez un itinéraire vélo vers une station à l'aide de Google Maps simplement en la sélectionnant.
+    description                           : Démarrez un itinéraire vers une station simplement en la sélectionnant.
     fontawesome_icon_name                 : directions
 
   - title                                 : Widget
