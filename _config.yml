@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Alexandre Guibert                               
 your_link                                 : https://www.linkedin.com/in/alexandre-guibert-896a2b17/                     
 your_city                                 : Paris                                
-email_address                             : alexandre968@hotmail.com
+email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -36,19 +36,19 @@ features                                  :
 
   - title                                 : Carte
     description                           : Retrouvez les stations et la disponibilité en vélos mécaniques, électriques ou parkings sur la carte.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : bike
     
   - title                                 : Recherche
     description                           : Recherchez une adresse et trouvez les stations à proximité.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : search
 
   - title                                 : Itinéraire
     description                           : Ouvrez un itinéraire vélo vers une station à l'aide de Google Maps simplement en la sélectionnant.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : directions
 
   - title                                 : Widget
     description                           : Retrouvez sur l'écran verrouillé les stations les plus proches de vous avec leurs disponibilités, et choisissez en une pour démarrer un itinéraire vélo.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : bars
 
 
 # Theme Settings
@@ -62,19 +62,19 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#79C618"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#fff"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#79C618"
+feature_icons_background_color            : "#333"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
